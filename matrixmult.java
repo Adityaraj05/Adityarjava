@@ -26,7 +26,7 @@ public class matrixmult {
             }
         }
         System.out.println("Multiplication of two matrices");
-        printMatrix(mul);
+        printMatrix(mul); 
 
 
 

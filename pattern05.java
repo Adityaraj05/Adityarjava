@@ -1,3 +1,5 @@
+
+// triangle type pattern
 import java.util.Scanner;
 public class pattern05 {
     public static void main(String[] args){

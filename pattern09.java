@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class pattern09{
     public static void main(String[] args){
